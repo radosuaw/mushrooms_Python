@@ -1,5 +1,4 @@
 # mushrooms
-the mushroom dataset analysis
 The dataset I worked on is the dataset available at the link
 https://www.kaggle.com/uciml/mushroom-classification
 It includes a set of 8124 samples of mushrooms in the Agaricus and Lepiota genera
